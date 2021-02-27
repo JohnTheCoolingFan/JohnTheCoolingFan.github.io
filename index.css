@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    display: flex;
+}
+
+.header-logo {
+    width: 260px;
+}
