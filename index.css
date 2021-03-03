@@ -16,4 +16,30 @@ body {
 .header-image {
     width: 56px;
     height: 56px;
+    vertical-align: middle;
+}
+
+.header-link {
+    text-decoration: none;
+    color: #666;
+}
+
+.header-title {
+    display: inline;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+    color: #444
+}
+
+.header-separator {
+    text-decoration: none;
+    color: #888;
+    user-select: none;
+}
+
+.header-menu {
+    display: inline;
+    text-align: middle;
 }
